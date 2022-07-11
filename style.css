@@ -115,7 +115,7 @@
 .education-school-name,
 .awards-company-name {
   font-size: 25px;
-  font-weight: bold;
+  font-weight: regular;
 }
 
 .exp-time-period,
@@ -135,4 +135,27 @@
 .awards-desc {
   font-size: 16px;
   padding-left: 5px;
+}
+
+.right-title{
+  color: #70C6C7;
+  text-transform: uppercase;
+}
+
+.profession, 
+.left-title, 
+.exp-company-name, 
+.education-school-name, 
+.exp-position, 
+.education-subject,
+.awards-company-name,
+.awards-name{
+  color: #FDB44B;
+  text-transform: uppercase;
+}
+
+.profession,
+.left-title,
+.right-title {
+  font-size: 18px;
 }
